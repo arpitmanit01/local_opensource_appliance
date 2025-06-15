@@ -20,6 +20,7 @@ This is an open-source application designed to interact with locally hosted Larg
 1. **Prerequisites:**
     * Python 3.x
     * Necessary dependencies (listed in `requirements.txt`)
+    * Basic knowledge of LLM Interactions
 2. **Installation:**
     ```bash
     git clone [https://github.com/your-username/local-llm-appliance.git](https://github.com/your-username/local-llm-appliance.git)
